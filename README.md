@@ -1,7 +1,11 @@
 # COVID-19 Pandemic Dashboard
 
-**Developed by:** Pam Cassedy Dumangeng, [Author 2], [Author 3], [Author 4]
-
+**Developed by:**
+1. Pam Cassedy Dumangeng
+2. Kim Carly Esperanza
+3. Louella Josephine Ng
+4. Gio Miguel Bihasa
+   
 An interactive Tableau dashboard that explores the global COVID-19 pandemic across four views: cases and deaths, population impact, vaccinations, and hospitalizations.
 
 **Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/pam.cassedy/viz/FinalProjectDataViz_17763998736500/Story1)

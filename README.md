@@ -9,7 +9,7 @@
 An interactive Tableau dashboard that explores the global COVID-19 pandemic across four views: cases and deaths, population impact, vaccinations, and hospitalizations.
 
 **Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/pam.cassedy/viz/FinalProjectDataViz_17763998736500/Story1)
-![Summary](screenshots/00-summary)
+![Summary](screenshots/00-summary.png)
 
 ## What the dashboard covers
 
